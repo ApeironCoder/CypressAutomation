@@ -1,0 +1,18 @@
+{
+    "myAccount" : "My Account",
+    "register" : "Register",
+
+    "registrationPage" : {
+        "firstNameLoc": "input[name='firstname']",
+        "lastNameLoc": "input[name='lastname']",
+        "emailId":"input[name='email']",
+        "telephoneNumber":"input[name='telephone']",
+        "newPassword":"input[name='password']",
+        "confirmPass":"input[name='confirm']"
+    },
+
+    "checkBox" : "[type='checkbox']",
+    "accountCreatedLoc":"div[id='content']",
+    "continueBtn":"input[value='Continue']"
+    
+}

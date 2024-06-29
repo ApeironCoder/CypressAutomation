@@ -1,0 +1,26 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApeironCoder/CypressAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ApeironCoder/CypressAutomation/issues"
+  },
+  "homepage": "https://github.com/ApeironCoder/CypressAutomation#readme",
+  "dependencies": {
+    "cypress": "^13.12.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
